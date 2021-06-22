@@ -7,11 +7,9 @@ Android 蓝牙示例
 Introduction
 ------------
 
-This sample should be run on two Android devices at the same time, to establish a two-way chat over
-Bluetooth between the devices. Select "Made discoverable" in overflow menu on one device and click
-on the Bluetooth icon on the other one, to find the device and establish the connection.
+此示例应同时在两个Android设备上运行，以建立双向聊天设备之间的蓝牙。 在一个设备上选择“Made discoverable”，然后单击在另一个上的蓝牙图标上，找到设备并建立连接。
 
-The sample demonstrates the following, using the [Bluetooth API][1]:
+示例中用的[Bluetooth API][1]:
 
 1. [Setting up][2] Bluetooth
 2. [Scanning][3] for other Bluetooth devices
