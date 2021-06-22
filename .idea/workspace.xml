@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:caren" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc98aba6-1ba3-4b77-b575-01e3bcf6cfa8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Application/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Application/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/java/com/example/android/bluetoothchat/DeviceListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/java/com/example/android/bluetoothchat/DeviceListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/res/layout/activity_device_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/res/layout/activity_device_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/res/menu/bluetooth_chat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/res/menu/bluetooth_chat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/res/values/base-strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/res/values/base-strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BluetoothLeChat/app/src/main/java/com/example/bluetoothlechat/bluetooth/ChatServer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../BluetoothLeChat/app/src/main/java/com/example/bluetoothlechat/bluetooth/ChatServer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BluetoothLeChat/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BluetoothLeChat/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BluetoothLeChat/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../BluetoothLeChat/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@172.20.10.3:5667, SerialNumber@172.20.10.4:5666]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uCfWkBl2GOfsBUAtSraG55Q2mt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.multipleDevicesSelected" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="SerialNumber@172.20.10.4:5666&#10;SerialNumber@172.20.10.3:5667" />
+    <property name="android.sdk.path" value="D:/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../markdown-note/笔记/Android 开发初次体验/github/BluetoothDemo" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recommended.upgrade.last.time.stamp" value="1624181491927" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="BluetoothChat.Application" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc98aba6-1ba3-4b77-b575-01e3bcf6cfa8" name="Default Changelist" comment="" />
+      <created>1624174525015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624174525015</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="273" y="71" key="#PSD" timestamp="1624181314349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="273" y="71" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1624181314349" />
+    <state x="398" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624198213858">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="398" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1624198213858" />
+    <state x="98" y="43" width="1350" height="638" key="AVDManager" timestamp="1624333445965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-160" y="63" width="1350" height="638" key="AVDManager/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1624194292303" />
+    <state x="98" y="43" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1624333445965" />
+    <state x="709" y="161" key="AndroidProcessChooserDialog" timestamp="1624199983845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="709" y="161" key="AndroidProcessChooserDialog/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1624199983845" />
+    <state x="709" y="161" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1624176695650" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1624253748240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624253748240" />
+    <state width="1485" height="397" key="GridCell.Tab.0.bottom" timestamp="1624334325580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1624200746345" />
+    <state width="1485" height="397" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624334325580" />
+    <state width="1485" height="397" key="GridCell.Tab.0.center" timestamp="1624334325580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1624200746345" />
+    <state width="1485" height="397" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624334325580" />
+    <state width="1485" height="397" key="GridCell.Tab.0.left" timestamp="1624334325580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1624200746345" />
+    <state width="1485" height="397" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624334325580" />
+    <state width="1485" height="397" key="GridCell.Tab.0.right" timestamp="1624334325580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1624200746345" />
+    <state width="1485" height="397" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624334325580" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1624285879000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1624198848715" />
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1624285879000" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1624178781056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624178781056" />
+    <state x="637" y="145" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog" timestamp="1624333371446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="305" y="114" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1624200425478" />
+    <state x="637" y="145" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog/0.0.1536.824@0.0.1536.824" timestamp="1624333371446" />
+    <state x="581" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1624333422320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="581" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1624333422320" />
+    <state x="467" y="144" width="715" height="650" key="find.popup" timestamp="1624333424365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="144" width="602" height="536" key="find.popup/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1624197698303" />
+    <state x="467" y="144" width="715" height="650" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1624333424365" />
+  </component>
+</project>

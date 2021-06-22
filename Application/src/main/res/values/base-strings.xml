@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright 2013 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">BluetoothChat</string>
+    <string name="intro_message">
+        <![CDATA[
+           使用方法:\n
+           一台设备上，点击右上角菜单 -> make discoverale,另一台设备点击 Secrue Connect\n
+        ]]>
+        <![CDATA[
+
+            此应用程序允许两个Android设备通过蓝牙执行双向文本聊天，提供了如下基本蓝牙 API 功能：\n
+              (1) 扫描其他蓝牙设备\n
+              (2) 查询本地蓝牙适配器以查找配对的蓝牙设备\n
+              (3) 建立 RFCOMM channels/sockets\n
+              (4) 连接一个远程设备\n
+              (5) 通过蓝牙投递信息\n
+            
+        
+        ]]>
+
+    </string>
+</resources>
