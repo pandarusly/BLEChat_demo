@@ -13,8 +13,8 @@ Introduction
 
 1. [Setting up][2] 设置蓝牙权限
 2. [Scanning][3] 扫描其他蓝牙权限
-3. [Querying][4] the local Bluetooth adapter for paired Bluetooth devices查询本地蓝牙适配器用于配对
-4. [Establishing RFCOMM][5] channels/sockets 建立 RFCOMM 连接
+3. [Querying][4] 查询本地蓝牙适配器用于配对
+4. [Establishing RFCOMM][5]  建立 RFCOMM 连接
 5. [Connecting][6] 连接一个远程设备
 6. [Transfering][7] 用蓝牙传递消息
 
