@@ -11,12 +11,12 @@ Introduction
 
 示例中用的[Bluetooth API][1]:
 
-1. [Setting up][2] Bluetooth
-2. [Scanning][3] for other Bluetooth devices
-3. [Querying][4] the local Bluetooth adapter for paired Bluetooth devices
-4. [Establishing RFCOMM][5] channels/sockets
-5. [Connecting][6] to a remote device
-6. [Transfering][7] data over Bluetooth
+1. [Setting up][2] 设置蓝牙权限
+2. [Scanning][3] 扫描其他蓝牙权限
+3. [Querying][4] the local Bluetooth adapter for paired Bluetooth devices查询本地蓝牙适配器用于配对
+4. [Establishing RFCOMM][5] channels/sockets 建立 RFCOMM 连接
+5. [Connecting][6] 连接一个远程设备
+6. [Transfering][7] 用蓝牙传递消息
 
 [1]: http://developer.android.com/guide/topics/connectivity/bluetooth.html
 [2]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#Permissions
